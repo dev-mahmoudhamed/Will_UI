@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    apiUrl: 'https://www.demowebsiteforlearning.somee.com/'
+    apiUrl: 'https://mahmoudhamed1-001-site1.dtempurl.com/'
 };
